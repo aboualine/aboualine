@@ -1,8 +1,11 @@
-
-  ## MOHAMED ABOUALINE 💫
-
+<div align="center">
   
-
+  ## MOHAMED ABOUALINE 💫
+</div>
+  
+- 🌱 I’m currently learning JAVA...
+- 👯 I’m looking to collaborate on java projects...
+- 🤔 I’m looking for help with learning spring and docker...
 
 <!--
 **aboualine/aboualine** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
