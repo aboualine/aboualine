@@ -45,7 +45,9 @@ Here are some ideas to get you started:
 ![](https://github-readme-streak-stats.herokuapp.com/?user=aboualine&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=aboualine&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 </div>
-## 🏆 GitHub Trophies
+
+
+# 🏆 GitHub Trophies:
 <div align="center">
   
 ![](https://github-profile-trophy.vercel.app/?username=aboualine&theme=dracula&no-frame=false&no-bg=false&margin-w=4)
