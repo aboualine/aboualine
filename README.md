@@ -6,7 +6,7 @@
 # <img src="https://camo.githubusercontent.com/d552948e7884c41fde2d32b9221d79f0df2076c7d824aaab954ca93f53d95884/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6876524a434c467a6361737252346961377a2f67697068792e676966" data-canonical-src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" style="width: 30px; display: inline-block;" data-target="animated-image.originalImage"> About Me:
   
 I'm a passionate BTS graduate in Multimedia and Web Design and currently studying Data Science at the Faculty of Applied Sciences in Ait Melloul.
-I have experience in web development, graphic design, and teaching, and I'm always eager to learn new technologies and improve my skills.
+I have experience in web development, graphic design, and I'm always eager to learn new technologies and improve my skills.
 
 Dynamic and highly motivated, I thrive in team environments and enjoy taking on new challenges to grow professionally.
 I'm currently seeking opportunities to work on exciting projects that allow me to apply my full-stack development and design expertise while exploring innovative solutions.
@@ -15,6 +15,7 @@ Let's build something great together!
 - 🌱 I’m currently learning JAVA and it's FRAMEWORKS...
 - 👯 I’m looking to collaborate on java projects...
 - 🤔 I’m looking for help with learning spring and docker...
+- 📫 How to reach me: mohamedaboualine@gmail.com...
 
 <!--
 **aboualine/aboualine** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
