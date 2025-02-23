@@ -53,11 +53,13 @@ Here are some ideas to get you started:
   
 ![](https://github-profile-trophy.vercel.app/?username=aboualine&theme=dracula&no-frame=false&no-bg=false&margin-w=4)
 
----
-[![](https://visitcount.itsvg.in/api?id=aboualine&icon=0&color=4)](https://visitcount.itsvg.in)
+
+<!-- [![](https://visitcount.itsvg.in/api?id=aboualine&icon=0&color=4)](https://visitcount.itsvg.in) -->
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 </div>
+
+---
 <div align="center">
   
   ![snake gif](https://github.com/aboualine/aboualine/blob/output/github-snake-dark.svg)
