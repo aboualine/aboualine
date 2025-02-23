@@ -62,3 +62,7 @@ Here are some ideas to get you started:
   
   ![snake gif](https://github.com/aboualine/aboualine/blob/output/github-snake-dark.svg)
 </div>
+<!-- ✨ Thanks for stopping by! Hope you find something useful—happy coding! 🚀-->
+<p align="center"> 
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Merriweather&size=26&pause=1000&color=FFFFFF&width=435&lines=%E2%9C%A8+Thanks+for+stopping+by!;+Hope+you+find+something+useful;happy+coding!+%F0%9F%9A%80" alt="Typing SVG" /></a>
+  </p>
