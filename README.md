@@ -5,16 +5,16 @@
 
 # <img src="https://camo.githubusercontent.com/d552948e7884c41fde2d32b9221d79f0df2076c7d824aaab954ca93f53d95884/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6876524a434c467a6361737252346961377a2f67697068792e676966" data-canonical-src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" style="width: 30px; display: inline-block;" data-target="animated-image.originalImage"> About Me:
   
-I'm a passionate BTS graduate in Multimedia and Web Design and currently studying Data Science at the Faculty of Applied Sciences in Ait Melloul.
-I have experience in web development, graphic design, and I'm always eager to learn new technologies and improve my skills.
+I'm a passionate graduate with a Licence in *Sciences Mathématiques et Informatique (SMI)*, specializing in Data Science. I have hands-on experience in **web development, software engineering, backend (PHP/Laravel), and frontend (React.js)**, as well as a strong background in **graphic design**.
 
-Dynamic and highly motivated, I thrive in team environments and enjoy taking on new challenges to grow professionally.
-I'm currently seeking opportunities to work on exciting projects that allow me to apply my full-stack development and design expertise while exploring innovative solutions.
+Driven by curiosity and creativity, I love turning ideas into functional and visually appealing digital solutions. I'm always eager to learn new technologies, improve my skills, and explore the intersection between data, design, and development.
+
+I'm currently **looking for new opportunities**, open to **collaborations**, and enjoy **building personal projects** that challenge me to grow as a full-stack developer.
 
 Let's build something great together!
-- 🌱 I’m currently learning JAVA and it's FRAMEWORKS...
-- 👯 I’m looking to collaborate on java projects...
-- 🤔 I’m looking for help with learning spring and docker...
+- 🌱 I’m currently learning PHP and it's FRAMEWORKS...
+- 👯 I’m looking to collaborate on LARAVEL/REACT projects...
+- 🤔 I’m looking for help with learning jenkins ,kubenetes and docker...
 - 📫 How to reach me: mohamedaboualine@gmail.com...
 
 <!--
